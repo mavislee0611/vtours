@@ -1,0 +1,39 @@
+.background {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Verdana;
+    text-align: center;
+    padding-top: 15vh;
+}
+
+.towns {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 2vh;
+}
+.town .page {
+  color: rgb(233, 181, 61);
+  text-decoration: underline;
+}
+ 
+.halloween {
+  padding-bottom: 5vh;
+}
+.halloween a {
+  color: #F05C34;
+}
+
+.description {
+  padding: 1vh 25vw 2vh 25vw;
+  font-size: medium;  
+}
+
+.description2 {
+  padding: 1vh 15vw 0 15vw;
+  font-size: medium; 
+}
+
+.map {
+  padding-top: 2vh;
+}

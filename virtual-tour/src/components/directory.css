@@ -1,0 +1,28 @@
+.background {
+  padding-top: 15vh;
+}
+.table table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  color: white;
+  padding-bottom: 5vh;
+  padding-top: 2vh;
+}
+.table table thead {
+  font-size: 1.5vw;
+  font-weight: normal;
+}
+.table table tbody {
+  margin-right: 2vw;
+}
+.towns {
+  display: flex;
+  flex-direction: row;
+  margin-left: auto;
+  margin-right: auto;
+}
+.town {
+  margin: 0 5px;
+}
+

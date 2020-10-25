@@ -1,0 +1,40 @@
+.nav-container {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    height: 8vh;
+    width: 100%;
+    background: rgba(109, 109, 129, 0.7);
+}
+
+.brandName {
+    display: flex;
+    align-items: center;
+    padding-left: 3vw;
+    padding-right: 2vw;
+    font-size: 4vh;
+    height: 100%;
+    width: 70%;
+    
+}
+.brandName .page {
+    color: #F05C34;
+}
+
+.pages {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    width: 30%;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 2.6vh;
+    padding-right: 4vw;
+}
+.page {
+    text-decoration: none;
+    color: white;
+}
+.specialColor {
+    color:#F05C34;
+}
